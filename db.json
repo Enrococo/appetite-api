@@ -1,7 +1,7 @@
 {
   "meals": [
     {
-      "idMeal": "52767",
+      "id": "52767",
       "strMeal": "Bakewell tart",
       "strDrinkAlternate": null,
       "strCategory": "Dessert",
